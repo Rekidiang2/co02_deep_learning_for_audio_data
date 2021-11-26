@@ -1,0 +1,11 @@
+
+Deep Learning (for Audio) with Python (PLAY LIST YOUTUBE)
+https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
+
+
+Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+Understanding GRU Networks
+https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
