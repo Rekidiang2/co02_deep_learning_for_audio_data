@@ -1,5 +1,6 @@
 # Deep Learning for Audio Data by [Valerio Velardo](https://valeriovelardo.com/)
-Deep Learning useful note and code
+
+Materials and code on deep learning for audio data
 
 
 
